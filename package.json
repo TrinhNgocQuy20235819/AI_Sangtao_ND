@@ -1,0 +1,9 @@
+{
+  "name": "aica-clone",
+  "version": "1.1.0",
+  "description": "AICA Content Assistant Clone - Optimized for Vercel",
+  "scripts": {
+    "build": "echo 'Vercel will auto-serve the public folder'"
+  },
+  "dependencies": {}
+}
